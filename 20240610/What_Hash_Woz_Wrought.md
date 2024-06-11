@@ -2,6 +2,7 @@
 
 In the summer of 1979, I abandoned grad school to start working at Apple Computer as a systems programmer. I was already thoroughly obsessed with their main product, the Apple II, so it was a dream come true to become an Apple employee and meet the amazing people behind the company.
 
+```
 **grad school**  
 研究生  
 **thoroughly**  
@@ -10,6 +11,7 @@ Thorough is used to emphasize the great degree or extent of something.
 **obsessed**  
 ADJ-GRADED（对…）着迷的;（受…）困扰的；（为…）心神不宁的  
 If someone is obsessed with a person or thing, they keep thinking about them and find it difficult to think about anything else.  
+```
 
 I became even more excited when I found out about the first project that I was slated to work on: an inexpensive little graphical printer. Most printers were large, loud and expensive, printing by impacting an inky ribbon. Apple collaborated with a small, local start-up named Trendcom that had a different approach, relying on coated thermal paper that darkened when heat was applied. The “print-head” was a column of seven tiny thermal elements that got hot when enabled. It was almost silent as it glided across the page, printing up to 80 characters per line at 40 characters per second.
 
