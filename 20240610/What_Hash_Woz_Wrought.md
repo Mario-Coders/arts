@@ -3,6 +3,7 @@
 In the summer of 1979, I abandoned grad school to start working at Apple Computer as a systems programmer. I was already thoroughly obsessed with their main product, the Apple II, so it was a dream come true to become an Apple employee and meet the amazing people behind the company.
 
 | grad school | 研究生 |
+| :----- | :-- |
 ```
 thoroughly  
 ADJ完全的，绝对的(用来强调程度)  
