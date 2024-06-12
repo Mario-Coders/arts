@@ -5,6 +5,8 @@ In the summer of 1979, I abandoned grad school to start working at Apple Compute
 ```
 grad school  
 研究生  
+```
+```
 thoroughly  
 ADJ完全的，绝对的(用来强调程度)  
 Thorough is used to emphasize the great degree or extent of something.  
