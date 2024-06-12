@@ -12,26 +12,16 @@ I became even more excited when I found out about the first project that I was s
 
 |||
 | :----- | :-- |
-|slated to | V-PASSIVE预定;计划;安排  
-If something is slated to happen, it is planned to happen at a particular time or on a particular occasion. |
-| impacting | VERB(对…)产生影响  
-To impact on a situation, process, or person means to affect them. |
-| ribbon | N-COUNT(打字机或打印机的)色带  
-A typewriter or printer ribbon is a long, narrow piece of cloth containing ink and is used in a typewriter or printer. |
-| collaborated | V-RECIP合作，协作(尤指著书或做研究)  
-When one person or group collaborates with another, they work together, especially on a book or on some research. |
-| approach | N-COUNT方法;态度;手段  
-Your approach to a task, problem, or situation is the way you deal with it or think about it. |
-| coated | COMB in ADJ(与 sugar, plastic 等物质名词连用，构成形容词）表示“覆盖…的”，“裹有…的”  
--coated combines with names of substances such as 'sugar' and 'plastic' to form adjectives that describe something as being covered with a thin layer of that substance. |
-| thermal | ADJ热的;由热引起的;温度变化引起的  
-Thermal means relating to or caused by heat or by changes in temperature. |
-| darkened | ADJ(建筑物或房间)黑暗的，漆黑的  
-A darkened building or room has no lights on inside it. |
-| column | N-COUNT柱状物  
-A column is something that has a tall narrow shape. |
-| glided | VERB滑动；滑行；悄悄地走  
-If you glide somewhere, you move silently and in a smooth and effortless way. |
+|slated to | V-PASSIVE预定;计划;安排 If something is slated to happen, it is planned to happen at a particular time or on a particular occasion. |
+| impacting | VERB(对…)产生影响 To impact on a situation, process, or person means to affect them. |
+| ribbon | N-COUNT(打字机或打印机的)色带 A typewriter or printer ribbon is a long, narrow piece of cloth containing ink and is used in a typewriter or printer. |
+| collaborated | V-RECIP合作，协作(尤指著书或做研究) When one person or group collaborates with another, they work together, especially on a book or on some research. |
+| approach | N-COUNT方法;态度;手段 Your approach to a task, problem, or situation is the way you deal with it or think about it. |
+| coated | COMB in ADJ(与 sugar, plastic 等物质名词连用，构成形容词）表示“覆盖…的”，“裹有…的”  -coated combines with names of substances such as 'sugar' and 'plastic' to form adjectives that describe something as being covered with a thin layer of that substance. |
+| thermal | ADJ热的;由热引起的;温度变化引起的 Thermal means relating to or caused by heat or by changes in temperature. |
+| darkened | ADJ(建筑物或房间)黑暗的，漆黑的 A darkened building or room has no lights on inside it. |
+| column | N-COUNT柱状物 A column is something that has a tall narrow shape. |
+| glided | VERB滑动；滑行；悄悄地走 If you glide somewhere, you move silently and in a smooth and effortless way. |
 
 Trendcom controlled their printer with a relatively expensive digital board that included a microprocessor and memory chips. Apple planned to buy printer mechanisms from Trendcom bereft of their digital board, saving almost a third of the total cost of the printer. Instead, we planned to use software on the Apple II to do most of the controlling. My job was to write that software.
 
