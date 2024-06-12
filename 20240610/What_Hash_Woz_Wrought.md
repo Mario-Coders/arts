@@ -2,89 +2,47 @@
 
 In the summer of 1979, I abandoned grad school to start working at Apple Computer as a systems programmer. I was already thoroughly obsessed with their main product, the Apple II, so it was a dream come true to become an Apple employee and meet the amazing people behind the company.
 
-```
-grad school  
-研究生  
-thoroughly  
-ADJ完全的，绝对的(用来强调程度)  
-Thorough is used to emphasize the great degree or extent of something.  
-obsessed  
-ADJ-GRADED（对…）着迷的;（受…）困扰的；（为…）心神不宁的  
-If someone is obsessed with a person or thing, they keep thinking about them and find it difficult to think about anything else.  
-```
+|||
+| :----- | :-- |
+| grad school | 研究生 |
+thoroughly  | ADJ完全的，绝对的(用来强调程度)  Thorough is used to emphasize the great degree or extent of something.  |
+| obsessed | ADJ-GRADED（对…）着迷的;（受…）困扰的；（为…）心神不宁的 If someone is obsessed with a person or thing, they keep thinking about them and find it difficult to think about anything else. |
 
 I became even more excited when I found out about the first project that I was slated to work on: an inexpensive little graphical printer. Most printers were large, loud and expensive, printing by impacting an inky ribbon. Apple collaborated with a small, local start-up named Trendcom that had a different approach, relying on coated thermal paper that darkened when heat was applied. The “print-head” was a column of seven tiny thermal elements that got hot when enabled. It was almost silent as it glided across the page, printing up to 80 characters per line at 40 characters per second.
 
-```
-slated to  
-V-PASSIVE预定;计划;安排  
-If something is slated to happen, it is planned to happen at a particular time or on a particular occasion. 
-impacting  
-VERB(对…)产生影响  
-To impact on a situation, process, or person means to affect them.  
-ribbon  
-N-COUNT(打字机或打印机的)色带  
-A typewriter or printer ribbon is a long, narrow piece of cloth containing ink and is used in a typewriter or printer.  
-collaborated  
-V-RECIP合作，协作(尤指著书或做研究)  
-When one person or group collaborates with another, they work together, especially on a book or on some research.  
-approach  
-N-COUNT方法;态度;手段  
-Your approach to a task, problem, or situation is the way you deal with it or think about it.  
-coated  
-COMB in ADJ(与 sugar, plastic 等物质名词连用，构成形容词）表示“覆盖…的”，“裹有…的”  
--coated combines with names of substances such as 'sugar' and 'plastic' to form adjectives that describe something as being covered with a thin layer of that substance.  
-thermal  
-ADJ热的;由热引起的;温度变化引起的  
-Thermal means relating to or caused by heat or by changes in temperature.  
-darkened  
-ADJ(建筑物或房间)黑暗的，漆黑的  
-A darkened building or room has no lights on inside it.  
-column  
-N-COUNT柱状物  
-A column is something that has a tall narrow shape.  
-glided  
-VERB滑动；滑行；悄悄地走  
-If you glide somewhere, you move silently and in a smooth and effortless way.  
-```
+|||
+| :----- | :-- |
+|slated to | V-PASSIVE预定;计划;安排 If something is slated to happen, it is planned to happen at a particular time or on a particular occasion. |
+| impacting | VERB(对…)产生影响 To impact on a situation, process, or person means to affect them. |
+| ribbon | N-COUNT(打字机或打印机的)色带 A typewriter or printer ribbon is a long, narrow piece of cloth containing ink and is used in a typewriter or printer. |
+| collaborated | V-RECIP合作，协作(尤指著书或做研究) When one person or group collaborates with another, they work together, especially on a book or on some research. |
+| approach | N-COUNT方法;态度;手段 Your approach to a task, problem, or situation is the way you deal with it or think about it. |
+| coated | COMB in ADJ(与 sugar, plastic 等物质名词连用，构成形容词）表示“覆盖…的”，“裹有…的”  -coated combines with names of substances such as 'sugar' and 'plastic' to form adjectives that describe something as being covered with a thin layer of that substance. |
+| thermal | ADJ热的;由热引起的;温度变化引起的 Thermal means relating to or caused by heat or by changes in temperature. |
+| darkened | ADJ(建筑物或房间)黑暗的，漆黑的 A darkened building or room has no lights on inside it. |
+| column | N-COUNT柱状物 A column is something that has a tall narrow shape. |
+| glided | VERB滑动；滑行；悄悄地走 If you glide somewhere, you move silently and in a smooth and effortless way. |
 
 Trendcom controlled their printer with a relatively expensive digital board that included a microprocessor and memory chips. Apple planned to buy printer mechanisms from Trendcom bereft of their digital board, saving almost a third of the total cost of the printer. Instead, we planned to use software on the Apple II to do most of the controlling. My job was to write that software.
 
-```
-relatively
-ADV相对而言;比较起来;某种程度上
-Relatively means to a certain degree, especially when compared with other things of the same kind.
-bereft
-ADJ-GRADED失去…的；丧失…的
-If a person or thing is bereft of something, they no longer have it.
-Trendcom是另一家公司，上边写的collaborated意思是苹果在和trendcom合作
-```
+|||
+| :----- | :-- |
+| relatively | ADV相对而言;比较起来;某种程度上 Relatively means to a certain degree, especially when compared with other things of the same kind.|
+|bereft|ADJ-GRADED失去…的；丧失…的 If a person or thing is bereft of something, they no longer have it.|
+||Trendcom是另一家公司，上边写的collaborated意思是苹果在和trendcom合作|
 
 I was pleased by the similarities between the printer project and Apple’s floppy drive, an awesome design that was peak Woz, his crowning glory. Woz had taken a standard Shugart floppy drive, and discarded most of its pricey controller board, using the Apple II to do the work instead, which saved cost while increasing capacity, flexibility and performance. We were going to do essentially the same thing with the Trendcom printer, only this time I got to be Woz, or at least the software side of him.
 
-```
-pleased
-ADJ-GRADED高兴的；喜欢的；满意的
-If you are pleased, you are happy about something or satisfied with something.
-floppy drive
-软盘驱动器,古老的技术
-peak
-N-COUNT顶点；顶峰
-The peak of a process or an activity is the point at which it is at its strongest, most successful, or most fully developed.
-crowning glory
-crowning glory是一个习语，指的是某人或某物的最伟大或最引以为傲的成就、特质或部分。在这个句子中，作者用“crowning glory”来形容苹果的软盘驱动器设计，意思是这个设计是沃兹尼亚克的最伟大的成就。
-Shugart floppy drive
-Shugart是软盘驱动器的一种品牌。Shugart Technology公司是软盘驱动器的先驱之一，他们在20世纪70年代开发了8英寸和5.25英寸软盘驱动器，这些驱动器成为了早期个人计算机的主要外部存储设备。Shugart的软盘驱动器在当时非常流行，并为个人计算机的发展做出了重要贡献.
-pricey
-ADJ-GRADED价格高的；昂贵的
-If you say that something is pricey, you mean that it is expensive.
-essentially
-ADV-GRADED根本上;本质上
-You use essentially to emphasize a quality that someone or something has, and to say that it is their most important or basic quality.
-got to be
-有机会成为或得以成为
-```
-
+|||
+| :----- | :-- |
+|pleased|ADJ-GRADED高兴的；喜欢的；满意的 If you are pleased, you are happy about something or satisfied with something. |
+|floppy drive|软盘驱动器,古老的技术|
+|peak|N-COUNT顶点；顶峰 The peak of a process or an activity is the point at which it is at its strongest, most successful, or most fully developed.|
+|crowning glory|crowning glory是一个习语，指的是某人或某物的最伟大或最引以为傲的成就、特质或部分。在这个句子中，作者用“crowning glory”来形容苹果的软盘驱动器设计，意思是这个设计是沃兹尼亚克的最伟大的成就。|
+|Shugart floppy drive | Shugart是软盘驱动器的一种品牌。Shugart Technology公司是软盘驱动器的先驱之一，他们在20世纪70年代开发了8英寸和5.25英寸软盘驱动器，这些驱动器成为了早期个人计算机的主要外部存储设备。Shugart的软盘驱动器在当时非常流行，并为个人计算机的发展做出了重要贡献.|
+|pricey|ADJ-GRADED价格高的；昂贵的 If you say that something is pricey, you mean that it is expensive.|
+|essentially | ADV-GRADED根本上;本质上 You use essentially to emphasize a quality that someone or something has, and to say that it is their most important or basic quality.|
+| got to be | 有机会成为或得以成为|
 
 The only other engineer on the project was Victor Bull, who was the hardware designer and project leader. Vic, who was smart with a dry sense of humor and a soft spoken, laconic manner, sat down with me on my second day of work and introduced me to the details of my new project. The printer software that I was to write would live on a 2K byte ROM chip on the interface board that Vic was designing. It needed to provide an easy way for the user to print the contents of their graphics screen and also to print 80 columns per line of text, from both Basic and Pascal. It also needed to be finished within a couple of months, so we could ship it in time for Christmas 1979, now less than five months away.
 
