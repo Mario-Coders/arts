@@ -25,57 +25,24 @@ I became even more excited when I found out about the first project that I was s
 
 Trendcom controlled their printer with a relatively expensive digital board that included a microprocessor and memory chips. Apple planned to buy printer mechanisms from Trendcom bereft of their digital board, saving almost a third of the total cost of the printer. Instead, we planned to use software on the Apple II to do most of the controlling. My job was to write that software.
 
-```
-relatively
-ADV相对而言;比较起来;某种程度上
-Relatively means to a certain degree, especially when compared with other things of the same kind.
-```
-```
-bereft
-ADJ-GRADED失去…的；丧失…的
-If a person or thing is bereft of something, they no longer have it.
-Trendcom是另一家公司，上边写的collaborated意思是苹果在和trendcom合作
-```
+|||
+| :----- | :-- |
+| relatively | ADV相对而言;比较起来;某种程度上 Relatively means to a certain degree, especially when compared with other things of the same kind.|
+|bereft|ADJ-GRADED失去…的；丧失…的 If a person or thing is bereft of something, they no longer have it.|
+||Trendcom是另一家公司，上边写的collaborated意思是苹果在和trendcom合作|
 
 I was pleased by the similarities between the printer project and Apple’s floppy drive, an awesome design that was peak Woz, his crowning glory. Woz had taken a standard Shugart floppy drive, and discarded most of its pricey controller board, using the Apple II to do the work instead, which saved cost while increasing capacity, flexibility and performance. We were going to do essentially the same thing with the Trendcom printer, only this time I got to be Woz, or at least the software side of him.
 
-```
-pleased
-ADJ-GRADED高兴的；喜欢的；满意的
-If you are pleased, you are happy about something or satisfied with something.
-```
-```
-floppy drive
-软盘驱动器,古老的技术
-```
-```
-peak
-N-COUNT顶点；顶峰
-The peak of a process or an activity is the point at which it is at its strongest, most successful, or most fully developed.
-```
-```
-crowning glory
-crowning glory是一个习语，指的是某人或某物的最伟大或最引以为傲的成就、特质或部分。在这个句子中，作者用“crowning glory”来形容苹果的软盘驱动器设计，意思是这个设计是沃兹尼亚克的最伟大的成就。
-```
-```
-Shugart floppy drive
-Shugart是软盘驱动器的一种品牌。Shugart Technology公司是软盘驱动器的先驱之一，他们在20世纪70年代开发了8英寸和5.25英寸软盘驱动器，这些驱动器成为了早期个人计算机的主要外部存储设备。Shugart的软盘驱动器在当时非常流行，并为个人计算机的发展做出了重要贡献.
-```
-```
-pricey
-ADJ-GRADED价格高的；昂贵的
-If you say that something is pricey, you mean that it is expensive.
-```
-```
-essentially
-ADV-GRADED根本上;本质上
-You use essentially to emphasize a quality that someone or something has, and to say that it is their most important or basic quality.
-```
-```
-got to be
-有机会成为或得以成为
-```
-
+|||
+| :----- | :-- |
+|pleased|ADJ-GRADED高兴的；喜欢的；满意的 If you are pleased, you are happy about something or satisfied with something. |
+|floppy drive|软盘驱动器,古老的技术|
+|peak|N-COUNT顶点；顶峰 The peak of a process or an activity is the point at which it is at its strongest, most successful, or most fully developed.|
+|crowning glory|crowning glory是一个习语，指的是某人或某物的最伟大或最引以为傲的成就、特质或部分。在这个句子中，作者用“crowning glory”来形容苹果的软盘驱动器设计，意思是这个设计是沃兹尼亚克的最伟大的成就。|
+|Shugart floppy drive | Shugart是软盘驱动器的一种品牌。Shugart Technology公司是软盘驱动器的先驱之一，他们在20世纪70年代开发了8英寸和5.25英寸软盘驱动器，这些驱动器成为了早期个人计算机的主要外部存储设备。Shugart的软盘驱动器在当时非常流行，并为个人计算机的发展做出了重要贡献.|
+|pricey|ADJ-GRADED价格高的；昂贵的 If you say that something is pricey, you mean that it is expensive.|
+|essentially | ADV-GRADED根本上;本质上 You use essentially to emphasize a quality that someone or something has, and to say that it is their most important or basic quality.|
+| got to be | 有机会成为或得以成为|
 
 The only other engineer on the project was Victor Bull, who was the hardware designer and project leader. Vic, who was smart with a dry sense of humor and a soft spoken, laconic manner, sat down with me on my second day of work and introduced me to the details of my new project. The printer software that I was to write would live on a 2K byte ROM chip on the interface board that Vic was designing. It needed to provide an easy way for the user to print the contents of their graphics screen and also to print 80 columns per line of text, from both Basic and Pascal. It also needed to be finished within a couple of months, so we could ship it in time for Christmas 1979, now less than five months away.
 
