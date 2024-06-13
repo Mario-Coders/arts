@@ -46,7 +46,22 @@ I was pleased by the similarities between the printer project and Apple’s flop
 
 The only other engineer on the project was Victor Bull, who was the hardware designer and project leader. Vic, who was smart with a dry sense of humor and a soft spoken, laconic manner, sat down with me on my second day of work and introduced me to the details of my new project. The printer software that I was to write would live on a 2K byte ROM chip on the interface board that Vic was designing. It needed to provide an easy way for the user to print the contents of their graphics screen and also to print 80 columns per line of text, from both Basic and Pascal. It also needed to be finished within a couple of months, so we could ship it in time for Christmas 1979, now less than five months away.
 
+|||
+|:---|:---|
+|laconic|ADJ-GRADED寡言的；言简意赅的 If you describe someone as laconic, you mean that they use very few words to say something, so that they seem casual or unfriendly.|
+|manner|N-SING态度;举止 Someone's manner is the way in which they behave and talk when they are with other people, for example whether they are polite, confident, or bad-tempered.|
+|dry sense of humor|"Dry sense of humor"通常指的是一种幽默风格，它以冷静、轻描淡写的方式表达幽默，通常不依赖于夸张或情绪化的表达。这样的人通常以幽默的方式说话，但不会带有太多的情绪或表情。|
+
 It took about a week to write the low level routines that managed the position and temperature of the thermal elements and paper. We decided that sending a “control-Q” to the printer should print whatever was displayed on the Apple II’s 280 by 192 graphics screen. After some coding and debugging, it was thrilling to watch the embryonic prototype print a sharp, clear rendition of the current hi-res screen.
+
+|||
+|:---|:---|
+|routines|N-COUNT例行程序 A routine is a computer program, or part of a program, that performs a specific function.|
+|thrilling|ADJ-GRADED扣人心弦的;激动人心的;引人入胜的 Something that is thrilling is very exciting and enjoyable.|
+|embryonic|ADJ-GRADED早期的;处于萌芽阶段的;胚胎期的 An embryonic process, idea, organization, or organism is one at a very early stage in its development.|
+|prototype|N-COUNT原型；样品；样本 A prototype is a new type of machine or device which is not yet ready to be made in large numbers and sold.|
+|rendition|N-COUNT(剧本、诗歌或音乐作品的)演出，表演，演绎 A rendition of a play, poem, or piece of music is a performance of it.|
+|hi-res screen|high-resolution screen"的缩写，指的是高分辨率屏幕|
 
 Finally, we were ready to try to print some text (which was harder than graphics since you had to worry about character generation and layout). I started considering what the Silentype’s initial utterance should be. Being a programmer, the first thing I thought of was “Hello, World!” but I knew we could probably do better than that so I started asking around for suggestions.
 
