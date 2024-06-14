@@ -65,9 +65,29 @@ It took about a week to write the low level routines that managed the position a
 
 Finally, we were ready to try to print some text (which was harder than graphics since you had to worry about character generation and layout). I started considering what the Silentype’s initial utterance should be. Being a programmer, the first thing I thought of was “Hello, World!” but I knew we could probably do better than that so I started asking around for suggestions.
 
+|||
+|:---|:---|
+|layout|N-COUNT布置；设计；布局 The layout of a garden, building, or piece of writing is the way in which the parts of it are arranged.|
+|utterance|N-COUNT言辞；言语；言论 Someone's utterances are the things that they say.|
+
 Someone mentioned that the first message ever sent electronically, tapped out in Morse code by Samuel Morse himself on May 24, 1844, was a bible quote, “What Hath God Wrought?”. In homage to both Samuel Morse and Steve Wozniak, we decided that the first official text printed by the printer should be “What Hath Woz Wrought?”. I wrote an Integer Basic program to print it out about 20 times and I saved the print-out for years but unfortunately lost it at some point, after it had mostly faded out anyway.
 
+|||
+|:---|:---|
+|bible|N-PROPER《圣经》 The Bible is the holy book on which the Jewish and Christian religions are based.|
+|quote|N-COUNT引文；引语；语录 A quote from a book, poem, play, or speech is a passage or phrase from it.|
+|hath|（have 的第三人称单数的过时形式） 古英语用法 Hath is an old-fashioned third person singular form of the verb 'have'.|
+|wrought|VERB引起;造成 If something has wrought a change, it has made it happen.|
+|homage|N-UNCOUNT尊敬;崇敬;敬意 Homage is respect shown towards someone or something you admire, or to a person in authority.|
+|faded out|PHRASAL VERB淡出;变得不再引人注目(直至完全消失) When something fades out, it slowly becomes less noticeable or less important until it disappears completely.|
+
 I occasionally thought about what Apple marketing was going to call our new printer, but I never heard any discussion about it. I was afraid they would name it something generic, like “Apple Thermal Printer”, so I was pleased when George Johnson, the marketing person assigned to the project, stopped by and told me they had decided to christen it the “Apple Silentype”. As a lifelong punster I approved, even if it wasn’t a reference to the 5th verse of “Tangled Up In Blue” as I hoped.
+
+|||
+|:---|:---|
+|stopped by|“顺便拜访”、“路过”或“停下来”|
+|christen|VERB开始称呼…为;给…取名为 You say that you christen a person, place, or object a particular name if you choose a name for them and start calling them by that name.|
+|punster|喜欢说双关语的人，爱说俏皮话的人|
 
 Vic was worried about the possibility of the software crashing while it was printing. It was possible for a thermal element to be inadvertently left on indefinitely, which could potentially ruin the thermal elements or even cause a fire. Vic solved the problem by adding a bit of hardware to cut current to elements that were left on for more than 10 milliseconds. He asked me to write a test to verify that his precaution was working as intended.
 
