@@ -126,4 +126,16 @@ At first nothing seemed to happen, except for a low volume humming sound emanati
 
 Unfortunately, the experiment seemed to permanently damage the print-head; it burned out or possibly melted some of the thermal elements. The printer could no longer print text or graphics, but it still was able to set the paper on fire, so I kept it around for the occasional incendiary demo.
 
+|||
+|:---|:---|
+|permanently|ADJ永久的；永恒的 Something that is permanent lasts for ever.|
+|melt|V-ERG(使)熔化;(使)融化 When a solid substance melts or when you melt it, it changes to a liquid, usually because it has been heated.|
+|incendiary|ADJ纵火的;放火的;能引起燃烧的 Incendiary weapons or attacks are ones that cause large fires.|
+
 I finished the Silentype firmware around mid-September, which was theoretically early enough to meet our goal of a Christmas 1979 release, but Trendcom had a series of production issues that delayed shipments in any significant volume until early 1980. It sold pretty well for a while as the official printer for the Apple II, before it was replaced by the ImageWriter dot matrix printer around the end of 1983.
+
+|||
+|:---|:---|
+|firmware|N-UNCOUNT固件(由于经常使用而储存在芯片上的一组指令) In computer systems, firmware is a set of commands which are stored on a chip rather than as part of a program, because the computer uses them very often.|
+|dot matrix printer|点阵打印机|
+
