@@ -101,7 +101,28 @@ Vic was worried about the possibility of the software crashing while it was prin
 
 I wrote code to intentionally leave each thermal element on, to verify that Vic’s safety measure was effective. I was pleased to see that it worked perfectly, but also a little disappointed to miss more exciting behavior if it hadn’t. I thought of something else to try: what if I left an element on for 9.9 milliseconds, before turning it off for only 30 microseconds, then turning it back on again. It would effectively be on for more than 99% of the time while sidestepping Vic’s remedy. I couldn’t resist coding it up to see what would happen, so I fired up the modified test and nervously awaited the results.
 
+|||
+|:---|:---|
+|intentionally|ADJ故意的;有意的 Something that is intentional is deliberate.|
+|sidestepping|VERB回避，规避(问题等) If you sidestep a problem, you avoid discussing it or dealing with it.|
+|remedy|N-COUNT(问题的)解决方法，解决良方 A remedy is a successful way of dealing with a problem.|
+|resist|VERB按捺;克制;忍住 If you resist doing something, or resist the temptation to do it, you stop yourself from doing it although you would like to do it.|
+
 At first nothing seemed to happen, except for a low volume humming sound emanating from the printer. Suddenly, after about five seconds, the paper started turning a deep, inky black, spreading out from the print-head organically, almost like a liquid, darker than I had ever seen before. I started smelling an acrid odor and noticed there were open flames near the print-head beginning to spread. I quickly reset the Apple II as I smothered the fire with my jacket. The foul smell drew a small crowd but mercifully no fire alarm.
+
+|||
+|:---|:---|
+|volume|N-UNCOUNT（广播、电视或音响系统的）音量，声量,响度 The volume of a radio, television, or sound system is the loudness of the sound it produces.|
+|humming|VERB发出连续而低沉的声音;发嗡嗡声 If something hums, it makes a low continuous noise.|
+|emanating|VERB来自(于);(从…)散发出 If something emanates from somewhere, it comes from there.|
+|organically|ADJ（变化或发展）逐渐的，自然的，演进的 Organic change or development happens gradually and naturally rather than suddenly.|
+|acrid|ADJ-GRADED（气味或味道）辛辣的，苦的，刺激的 An acrid smell or taste is strong and sharp, and usually unpleasant.|
+|odor|气味，名声|
+|flame|N-VAR火焰;烈焰;火舌 A flame is a hot bright stream of burning gas that comes from something that is burning.|
+|smother|VERB将(火)闷熄 If you smother a fire, you cover it with something in order to put it out.|
+|foul|ADJ-GRADED难吃的;肮脏的;恶臭的 If you describe something as foul, you mean it is dirty and smells or tastes unpleasant.|
+|crowd|N-COUNT-COLL人群;观众 A crowd is a large group of people who have gathered together, for example to watch or listen to something interesting, or to protest about something.|
+|mercifully|ADV幸运地;有福气地;幸好 You can use mercifully to show that you are glad that something good has happened, or that something bad has not happened or has stopped.|
 
 Unfortunately, the experiment seemed to permanently damage the print-head; it burned out or possibly melted some of the thermal elements. The printer could no longer print text or graphics, but it still was able to set the paper on fire, so I kept it around for the occasional incendiary demo.
 
