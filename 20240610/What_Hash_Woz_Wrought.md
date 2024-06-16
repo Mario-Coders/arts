@@ -91,6 +91,14 @@ I occasionally thought about what Apple marketing was going to call our new prin
 
 Vic was worried about the possibility of the software crashing while it was printing. It was possible for a thermal element to be inadvertently left on indefinitely, which could potentially ruin the thermal elements or even cause a fire. Vic solved the problem by adding a bit of hardware to cut current to elements that were left on for more than 10 milliseconds. He asked me to write a test to verify that his precaution was working as intended.
 
+|||
+|:---|:---|
+|inadvertently|ADJ无意的;并非故意的;因疏忽造成的 An inadvertent action is one that you do without realizing what you are doing.|
+|left on|持续开启，忘记关闭|
+|indefinitely|ADV无限期地 If a situation will continue indefinitely, it will continue for ever or until someone decides to change it or end it.|
+|current|N-COUNT电流 An electric current is a flow of electricity through a wire or circuit.|
+|precaution|N-COUNT预防措施；防备 A precaution is an action that is intended to prevent something dangerous or unpleasant from happening.|
+
 I wrote code to intentionally leave each thermal element on, to verify that Vic’s safety measure was effective. I was pleased to see that it worked perfectly, but also a little disappointed to miss more exciting behavior if it hadn’t. I thought of something else to try: what if I left an element on for 9.9 milliseconds, before turning it off for only 30 microseconds, then turning it back on again. It would effectively be on for more than 99% of the time while sidestepping Vic’s remedy. I couldn’t resist coding it up to see what would happen, so I fired up the modified test and nervously awaited the results.
 
 At first nothing seemed to happen, except for a low volume humming sound emanating from the printer. Suddenly, after about five seconds, the paper started turning a deep, inky black, spreading out from the print-head organically, almost like a liquid, darker than I had ever seen before. I started smelling an acrid odor and noticed there were open flames near the print-head beginning to spread. I quickly reset the Apple II as I smothered the fire with my jacket. The foul smell drew a small crowd but mercifully no fire alarm.
