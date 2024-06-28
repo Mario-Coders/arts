@@ -1,6 +1,13 @@
 
 Burrell Smith liked to do intensive design work over the Christmas break, so the very first prototype of the very first Macintosh sprung to life early in the first month of the new decade, in January 1980. It wasn't really a stand-alone computer yet, as the prototype resided on an Apple II peripheral card, but it already contained the essential hardware elements of Jef Raskin's Macintosh dream: a Motorola 6809E microprocessor, 64K of memory, and a 256 by 256 bit-mapped graphic frame buffer, which was hooked up to a cute, tiny 7 inch black and white display. Burrell used the Apple II host to poke values into the memory of the prototype, so he could initialize the control registers and run small programs with the 6809.
 
+|||
+|:---|:---|
+|intensive|ADJ-GRADED加强的;集中的;密集的 Intensive activity involves concentrating a lot of effort or people on one particular task in order to try to achieve a great deal in a short time.|
+|over the Christmas break|圣诞假期期间|
+|prototype|N-COUNT原型；样品；样本 A prototype is a new type of machine or device which is not yet ready to be made in large numbers and sold.|
+|sprung|VERB冷不防地说;突然告诉(或宣布) If you spring some news or a surprise on someone, you tell them something that they did not expect to hear, without warning them.|
+
 
 I went out to lunch with Burrell a few weeks later and, knowing my appreciation for Woz-like hardware hacks, he explained the crazy way that he contrived for the Apple II to talk with the prototype. He didn't want to waste time designing and wiring up hardware to synchronize the memory of the two machines, since that wouldn't be needed by the real product. Instead, he delegated the memory synchronization to the software, requiring the Apple II to hit a special memory address to tell the prototype how many microseconds later to grab data off of the common data bus. It was weird enough to make me interested in seeing if it really worked.
 
