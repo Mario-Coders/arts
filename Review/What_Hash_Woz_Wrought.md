@@ -136,6 +136,13 @@ I finished the Silentype firmware around mid-September, which was theoretically 
 
 |||
 |:---|:---|
-|firmware|N-UNCOUNT固件(由于经常使用而储存在芯片上的一组指令) In computer systems, firmware is a set of commands which are stored on a chip rather than as part of a program, because the computer uses them very often.|
-|dot matrix printer|点阵打印机|
+|firmware|N-UNCOUNT固件(由于经常使用而储存在芯片上的一组指令) In computer systems, firmware is a set of commands which are stored on a ch
 
+
+
+think:
+1. 作者称苹果的floppy drive是沃兹的crowning glory.沃兹听了一定很开心，他设计的作品得到了所有后来人的称赞。我在想，我们有没有可能，在有生>之年，写出几片代码，被后来人看到后称赞为his crowning glory呢？哈哈。不过目前的惯例用宝哥的话说是，“技术相轻”，互相瞧不上。我们无数次在办>公区听到“这不就是个xxx吗”的言论。我本人也被一位同事当面讲过“你那个平台不就是个哈希吗？这也叫平台……”。真的是无地自容，也许我应该跳楼自杀，
+不该苟活于人世，还要弄一个垃圾平台祸害人家，哈哈。另外一点，如果前人做的好，那后来人就无事可做，怎么证明自己的价值？所以后来人往往会尽量>挑前人工作中的毛病，来为自己的工作价值证明。
+说起来技术人员应该“正直”，有一说一，但往往也逃不脱这些狗屎逻辑。
+2. 作者把打印机给点了，这本来是一个失败经历。但是我却从中感受到了激情。首先是好奇心驱动：作者自己想了一个idea，特别想实验一下，才有了这点
+火。然后是作者把这失败经历写出来的态度，不在意，觉得很有趣。我觉得这经历真挺好，是一个“新奇体验”，我也想体验体验[狗头]。这让我想起乔布斯>反复强调的：当海盗，不要当海军。这些“陈词滥调”在我学生时代在我的脑子里回响了无数次，但是在工作之后随着时间逐渐减弱。看看现在，哪还有什么>他妈的海盗，呵呵。你还有探索的时间？你还有创想的时间？对不起，您的拼值已不多，请及时充值。|dot matrix printer|点阵打印机|
